@@ -13,3 +13,11 @@
 
 ### En la página Home import
 #### import {BarcodeScanner} from '@awesome-cordova-plugins/barcode-scanner/ngx'
+
+
+### CONFIGURAR RUTA ANDROID STUDIO EN CETECOM DUOC
+#### C:\Users\CETECOM\AppData\Local\Android\Sdk 
+
+### Para evitar el error de carga en android studio
+### cambiar en package.json
+#### "Phonegap-plugin-barcodescanner":"git+https://github.com/StarleyDev/barcodescanner-sdk31.git";
