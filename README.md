@@ -1,0 +1,1 @@
+# Demo Barcode Scanner Ionic 7
