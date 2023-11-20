@@ -21,3 +21,7 @@
 ### Para evitar el error de carga en android studio
 ### cambiar en package.json
 #### "Phonegap-plugin-barcodescanner":"git+https://github.com/StarleyDev/barcodescanner-sdk31.git";
+
+### En ANDROID STUDIO
+Una vez generada la app, cambiar gradle.properties desde gradle scripy y agregar:
+android.enableJetifier=true
